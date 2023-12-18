@@ -1,1 +1,1 @@
-<img src="/Foundation/Landing-Pages/assets/img/landingPages.png" alt="landing-pages">
+![Image](/assets/img/landingPages.png)
